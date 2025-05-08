@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jin38324/ai_video_stream)
+
 # 项目概述
 
 ----
